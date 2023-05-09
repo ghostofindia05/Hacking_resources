@@ -1,2 +1,0 @@
--O os discovery
-pg 7 in ceh cheetsheet
