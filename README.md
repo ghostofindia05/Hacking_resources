@@ -8,15 +8,14 @@ Don't forget to see what inside folders
 
 * * * 
 Mega databses full of resources
-```console
-https://mega.nz/folder/1rBHzIyD#M-aTi-c1nC3OGNgpH8OqhA/folder/865A3YKA
-https://mega.nz/folder/QtUBkSyI#pWhNWowJhOTamWY0PuODLA
-```
-* * * 
-Sites to download paid courses for free(Keep urself hidden)
 
-<sub> u can find any course in hide</sub>
-```console
-https://beta.hide01.ir/
-https://hide01.ir/
-```
+<a href="https://mega.nz/folder/1rBHzIyD#M-aTi-c1nC3OGNgpH8OqhA/folder/865A3YKA">https://mega.nz/folder/1rBHzIyD#M-aTi-c1nC3OGNgpH8OqhA/folder/865A3YKA</a>
+
+<a href="https://mega.nz/folder/QtUBkSyI#pWhNWowJhOTamWY0PuODLA">https://mega.nz/folder/QtUBkSyI#pWhNWowJhOTamWY0PuODLA</a>
+
+* * * 
+Sites to download paid courses for free(Keep urself hidden).U can find any type of course
+
+<a href="https://beta.hide01.ir/">https://beta.hide01.ir/</a>
+
+<a href="https://hide01.ir/">https://hide01.ir/</a>
