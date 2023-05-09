@@ -1,6 +1,7 @@
 # Hacking_resources
 These are the hacking resources available on internet
 i am gathering resources to here so everyone and me can access easily
+Don't forget to see what inside folders
 
 > **⚠️ Disclaimer**:
 *This is purely for educational purposes only. DO NOT try these techniques with any public network. Because if you are find guilty for causing any harm to any individual, government, corporate body, non-profit etc you will be sued with serious charges of cyber crime. I recommend you to practice on your owned system and your own data in a private or local network.*
