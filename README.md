@@ -11,3 +11,10 @@ Mega databses full of resources
 https://mega.nz/folder/1rBHzIyD#M-aTi-c1nC3OGNgpH8OqhA/folder/865A3YKA
 https://mega.nz/folder/QtUBkSyI#pWhNWowJhOTamWY0PuODLA
 ```
+* * * 
+Sites to download paid courses for free(Keep urself hidden)
+
+<sub> u can find any course in hide</sub>
+```console
+https://beta.hide01.ir/
+```
