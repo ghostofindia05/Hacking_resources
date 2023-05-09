@@ -17,4 +17,5 @@ Sites to download paid courses for free(Keep urself hidden)
 <sub> u can find any course in hide</sub>
 ```console
 https://beta.hide01.ir/
+https://hide01.ir/
 ```
